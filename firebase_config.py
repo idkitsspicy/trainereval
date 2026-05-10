@@ -11,19 +11,17 @@ from firebase_admin import firestore
 # -----------------------------------------
 
 if not firebase_admin._apps:
-
-```
-cred = credentials.Certificate(
+    cred = credentials.Certificate(
 
     dict(
         st.secrets["firebase"]
     )
 )
 
-firebase_admin.initialize_app(
+    firebase_admin.initialize_app(
     cred
 )
-```
+
 
 # -----------------------------------------
 
