@@ -1,0 +1,9 @@
+streamlit
+pandas
+google-generativeai
+python-dotenv
+PyPDF2
+opencv-python
+firebase-admin
+requests
+copyleaks
