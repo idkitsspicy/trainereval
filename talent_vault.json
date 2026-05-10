@@ -1,0 +1,352 @@
+[
+    {
+        "candidate_id": "18f64c5f",
+        "final_score": 67.0,
+        "status": "REJECTED",
+        "rejection_reason": "Candidate failed to demonstrate root-cause diagnostic probing in technical scenarios.",
+        "capabilities": {
+            "Diagnostic": 40,
+            "Simplification": 45,
+            "AI_Stance": 100,
+            "Patience": 80
+        },
+        "subjects": [
+            "Java",
+            "DSA"
+        ],
+        "hashed_email": "06a240d11cc201676da976f7b49341181fd180da37cbe40a77432c0a366c80c3"
+    },
+    {
+        "candidate_id": "354d7c3d",
+        "final_score": 67.0,
+        "status": "REJECTED",
+        "rejection_reason": "Candidate failed to demonstrate root-cause diagnostic probing in technical scenarios.",
+        "capabilities": {
+            "Diagnostic": 40,
+            "Simplification": 45,
+            "AI_Stance": 100,
+            "Patience": 80
+        },
+        "subjects": [
+            "Java",
+            "DSA"
+        ],
+        "hashed_email": "01ffdbbffc7260c5ac6cedf2befc1653a28e61570d42ce366999819eb269e00f"
+    },
+    {
+        "candidate_id": "4200baa3",
+        "final_score": 67.0,
+        "status": "REJECTED",
+        "rejection_reason": "Candidate failed to demonstrate root-cause diagnostic probing in technical scenarios.",
+        "capabilities": {
+            "Diagnostic": 40,
+            "Simplification": 45,
+            "AI_Stance": 100,
+            "Patience": 80
+        },
+        "subjects": [
+            "Java",
+            "DSA"
+        ],
+        "hashed_email": "b4f8f9b94ea49d17d3c809b0879eb7e9f76343800879ed05646ccc1a227cdca3"
+    },
+    {
+        "candidate_id": "530712d2",
+        "final_score": 67.0,
+        "status": "REJECTED",
+        "rejection_reason": "Candidate failed to demonstrate root-cause diagnostic probing in technical scenarios.",
+        "capabilities": {
+            "Diagnostic": 40,
+            "Simplification": 45,
+            "AI_Stance": 100,
+            "Patience": 80
+        },
+        "subjects": [
+            "Java",
+            "DSA"
+        ],
+        "hashed_email": "06a240d11cc201676da976f7b49341181fd180da37cbe40a77432c0a366c80c3"
+    },
+    {
+        "candidate_id": "7a1baf66",
+        "final_score": 67.0,
+        "status": "REJECTED",
+        "rejection_reason": "Candidate failed to demonstrate root-cause diagnostic probing in technical scenarios.",
+        "capabilities": {
+            "Diagnostic": 40,
+            "Simplification": 45,
+            "AI_Stance": 100,
+            "Patience": 80
+        },
+        "subjects": [
+            "Java",
+            "DSA"
+        ],
+        "hashed_email": "06a240d11cc201676da976f7b49341181fd180da37cbe40a77432c0a366c80c3"
+    },
+    {
+        "candidate_id": "a62304b8",
+        "final_score": 82.0,
+        "status": "SELECTED",
+        "rejection_reason": "Meets quality bar for pedagogical engagement.",
+        "capabilities": {
+            "Diagnostic": 90,
+            "Simplification": 45,
+            "AI_Stance": 100,
+            "Patience": 80
+        },
+        "subjects": [
+            "Java",
+            "DSA"
+        ],
+        "hashed_email": "06a240d11cc201676da976f7b49341181fd180da37cbe40a77432c0a366c80c3"
+    },
+    {
+        "candidate_id": "a243dc12",
+        "name": "Aparna Vattipalli",
+        "hashed_email": "8148c1b744611bd3a40ec9350446ea75ed1cb16ecaf62cfc6bc89c3d59dda5da",
+        "status": "REJECTED",
+        "final_score": 47.66,
+        "skill_match": 5,
+        "experience_score": 5,
+        "role_alignment": 0,
+        "additional_strengths": 75,
+        "credibility_score": 15,
+        "severity": "High",
+        "red_flags": [
+            "Unrealistic application: A second-year undergraduate student applying for an 'Expert trainer' role is a severe seniority mismatch.",
+            "Core technology mismatch: The candidate specializes in Python and AI/ML, completely lacking the mandatory Java and DSA expertise.",
+            "Lack of pedagogical foundation: Zero professional teaching experience to handle diagnostic teaching, concept simplification, or a batch of 30 students.",
+            "Scoring inconsistency: An 'additional_strengths' score of 75 is abnormally high and misleading for a candidate with a skill match and experience level of 5, alongside a 0 in role alignment."
+        ],
+        "capabilities": {
+            "Diagnostic": 90,
+            "Simplification": 85,
+            "Patience": 90,
+            "AI_Stance": 70,
+            "Scenario": 70
+        },
+        "subjects": [
+            "Java",
+            "DSA"
+        ],
+        "reason": "Candidate meets the pedagogical engagement quality threshold."
+    },
+    {
+        "candidate_id": "57a4252c",
+        "name": "Sashi Kumar",
+        "hashed_email": "c2a4e4a3188eaa4e637546a5c7153a21f027ea23cbebd1c08f4efb298009fafb",
+        "status": "REJECTED",
+        "final_score": 40.05,
+        "skill_match": 0,
+        "experience_score": 5,
+        "role_alignment": 0,
+        "additional_strengths": 40,
+        "credibility_score": 10,
+        "severity": "High",
+        "red_flags": [
+            "Extreme role mismatch: The candidate applied for an 'Expert trainer' position in Java and DSA despite being a 2nd-year undergraduate student focused on Python and AI/ML.",
+            "Zero technical alignment: The profile shows a 0 skill match and 0 role alignment, completely lacking the mandatory Java and DSA expertise.",
+            "Lack of pedagogical experience: The requirement demands advanced classroom management and diagnostic teaching skills, but the candidate has no prior teaching or training experience.",
+            "Unrealistic application or spam: Applying for a high-difficulty, expert-level training role while still in the early stages of an undergraduate degree indicates a 'spray-and-pray' application strategy.",
+            "Experience inconsistency: If 'depth_of_experience: 5' refers to years of experience, it is highly exaggerated and chronologically inconsistent for a 2nd-year undergraduate student."
+        ],
+        "capabilities": {
+            "Diagnostic": 40,
+            "Simplification": 85,
+            "Patience": 90,
+            "AI_Stance": 70,
+            "Scenario": 70
+        },
+        "subjects": [
+            "Java",
+            "DSA"
+        ],
+        "reason": "Candidate failed to demonstrate root-cause diagnostic teaching."
+    },
+    {
+        "candidate_id": "e8d01449",
+        "name": "Praneeth Tej",
+        "hashed_email": "853729849e168a5cf6d3c2f40a1d333d74e27f99e3ce2b272e18b69fdd4eead1",
+        "status": "REJECTED",
+        "final_score": 44.87,
+        "skill_match": 5,
+        "experience_score": 5,
+        "role_alignment": 5,
+        "additional_strengths": 40,
+        "credibility_score": 90,
+        "severity": "High",
+        "red_flags": [
+            "Severe seniority mismatch: Candidate is a second-year undergraduate student applying for an 'Expert trainer' role that requires extensive pedagogical experience.",
+            "Core tech stack mismatch: The candidate's primary skills are in Python, AI, and Web Development, which entirely misses the mandatory Java with DSA requirement.",
+            "Lack of required teaching competencies: A current undergraduate is highly unlikely to possess the classroom management, diagnostic teaching, and deep concept simplification skills required for a 40-hour intensive bootcamp.",
+            "Potential metric inconsistency: The numerical scores (e.g., 'skill_match': 5, 'depth_of_experience': 5) may contradict the 'REJECTED' verdict and highly critical reasoning if evaluated on a standard 5-point scale."
+        ],
+        "capabilities": {
+            "Diagnostic": 90,
+            "Simplification": 85,
+            "Patience": 75,
+            "AI_Stance": 51,
+            "Scenario": 45
+        },
+        "subjects": [
+            "Java",
+            "DSA"
+        ],
+        "reason": "Candidate meets the pedagogical engagement quality threshold."
+    },
+    {
+        "candidate_id": "f55aa543",
+        "name": "Mahesh Babu",
+        "hashed_email": "dad5c2b565fc9eb43c5989882c3db6cbbecdf576df9f525c85957cfcda3ace5b",
+        "status": "REJECTED",
+        "final_score": 40.6,
+        "skill_match": 0,
+        "experience_score": 10,
+        "role_alignment": 0,
+        "additional_strengths": 40,
+        "credibility_score": 10,
+        "severity": "High",
+        "red_flags": [
+            "Extreme role mismatch: Candidate is a second-year undergraduate student applying for an 'Expert Trainer' position requiring high-level pedagogical skills.",
+            "Complete skill misalignment: The candidate specializes in Python, NLP, and GenAI, lacking the fundamental requirement of Java and DSA expertise.",
+            "Zero teaching experience: The candidate has no demonstrated background in diagnostic teaching, concept simplification, or classroom management for a batch of 30 students.",
+            "Blind/Spam applicant: Applying to a senior, specialized 40-hour bootcamp training role while still in the early stages of an undergraduate degree indicates the candidate is bulk-applying without reading job descriptions."
+        ],
+        "capabilities": {
+            "Diagnostic": 90,
+            "Simplification": 85,
+            "Patience": 75,
+            "AI_Stance": 73,
+            "Scenario": 45
+        },
+        "subjects": [
+            "Java",
+            "DSA"
+        ],
+        "reason": "Candidate meets the pedagogical engagement quality threshold."
+    },
+    {
+        "candidate_id": "762f4c6e",
+        "name": "Anushka",
+        "hashed_email": "a0b6e75ccfcb34d6cf3d6807252abeb818cae46759b263a059bf3ec4adefe67b",
+        "status": "REJECTED",
+        "final_score": 39.27,
+        "skill_match": 0,
+        "experience_score": 5,
+        "role_alignment": 0,
+        "additional_strengths": 30,
+        "credibility_score": 0,
+        "severity": "High",
+        "red_flags": [
+            "Complete skill mismatch: The candidate's background is exclusively in AI/ML and Python, with absolutely no mention of Java or Data Structures and Algorithms (DSA).",
+            "Severe role misalignment: The requirement calls for an 'Expert trainer' to handle a high-difficulty 40-hour bootcamp, but the candidate is merely an undergraduate student.",
+            "Zero pedagogical foundation: The profile lacks any evidence of teaching experience, diagnostic teaching abilities, classroom management, or concept simplification skills required for the role."
+        ],
+        "capabilities": {
+            "Diagnostic": 90,
+            "Simplification": 85,
+            "Patience": 75,
+            "AI_Stance": 70,
+            "Scenario": 45
+        },
+        "subjects": [
+            "Java",
+            "DSA"
+        ],
+        "reason": "Candidate meets the pedagogical engagement quality threshold."
+    },
+    {
+        "candidate_id": "0d3abe88",
+        "name": "Bob",
+        "hashed_email": "300db02db75af922c759f08a0efa5a400128eac1f531b802697450b5c6da6e9f",
+        "status": "REJECTED",
+        "final_score": 40.26,
+        "skill_match": 5,
+        "experience_score": 5,
+        "role_alignment": 5,
+        "additional_strengths": 30,
+        "credibility_score": 15,
+        "severity": "High",
+        "red_flags": [
+            "Severe inconsistency: The candidate received scores of 5 for 'skill_match', 'depth_of_experience', and 'role_alignment', yet the rejection reason explicitly states they 'completely lack the required expertise in Java and DSA'.",
+            "Unrealistic claims: Assigning high or moderate numerical scores to a current undergraduate student for an 'Expert trainer' persona that requires advanced diagnostic pedagogy and classroom management is highly illogical.",
+            "Skill mismatch: The requirement strictly demands high-difficulty Java and DSA expertise, but the candidate's background is entirely focused on AI/ML and Python.",
+            "Experience mismatch: The requirement dictates a seasoned professional capable of handling frustrated students in a 40-hour bootcamp, while the candidate is an undergraduate lacking necessary pedagogical experience."
+        ],
+        "capabilities": {
+            "Diagnostic": 90,
+            "Simplification": 85,
+            "Patience": 75,
+            "AI_Stance": 70,
+            "Scenario": 45
+        },
+        "subjects": [
+            "Java",
+            "DSA"
+        ],
+        "reason": "Candidate meets the pedagogical engagement quality threshold."
+    },
+    {
+        "candidate_id": "7d946531",
+        "name": "Kumar",
+        "hashed_email": "b3af968dd2d7965474adf0846dc1bc72d0444fae5aa2f62864fd74b7d939de9f",
+        "status": "REJECTED",
+        "final_score": 43.72,
+        "skill_match": 0,
+        "experience_score": 0,
+        "role_alignment": 0,
+        "additional_strengths": 0,
+        "credibility_score": 0,
+        "severity": "High",
+        "red_flags": [
+            "Candidate name is a generic placeholder ('Your Name').",
+            "The resume content consists entirely of 'Lorem ipsum' placeholder text rather than actual career details.",
+            "Zero skill match, depth of experience, and role alignment scores.",
+            "Completely lacks any evidence of Java, DSA, or pedagogical skills required for the expert trainer role."
+        ],
+        "capabilities": {
+            "Diagnostic": 90,
+            "Simplification": 85,
+            "Patience": 75,
+            "AI_Stance": 94.0,
+            "Scenario": 45
+        },
+        "subjects": [
+            "Java",
+            "DSA"
+        ],
+        "reason": "Candidate meets the pedagogical engagement quality threshold."
+    },
+    {
+        "candidate_id": "3bc90a3d",
+        "name": "snigdha",
+        "hashed_email": "b5d557f4960d79d929c838251b031e01c182c8b5a1f3b82afba500db4fe16c63",
+        "status": "REJECTED",
+        "final_score": 25.87,
+        "skill_match": 5,
+        "experience_score": 5,
+        "role_alignment": 0,
+        "additional_strengths": 60,
+        "credibility_score": 10,
+        "severity": "High",
+        "red_flags": [
+            "Massive seniority mismatch: A second-year undergraduate student is applying for an 'Expert' trainer role.",
+            "Zero relevant technical background: Candidate has no experience in Java or Data Structures and Algorithms (DSA), which are the core requirements.",
+            "Lack of pedagogical experience: No demonstrated professional teaching or training experience to manage an online batch of 30 students.",
+            "Complete stack misalignment: Candidate specializes in Python and AI/ML rather than the required Java/DSA curriculum."
+        ],
+        "capabilities": {
+            "Diagnostic": 90,
+            "Simplification": 85,
+            "Patience": 75,
+            "AI_Stance": 0,
+            "Scenario": 45
+        },
+        "subjects": [
+            "Java",
+            "DSA"
+        ],
+        "reason": "Candidate responses exhibit low originality/authenticity."
+    }
+]
