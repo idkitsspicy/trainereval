@@ -22,18 +22,18 @@ from dotenv import load_dotenv
 load_dotenv()
 
 genai.configure(
-    api_key=os.getenv(
+    api_key=st.secrets[
         "GEMINI_API_KEY"
-    )
+    ]
 )
 
 model = genai.GenerativeModel(
     "gemini-3.1-pro-preview"
 )
 
-AI_DETECT_API = os.getenv(
+AI_DETECT_API = st.secrets[
     "UNDETECTABLE_API_KEY"
-)
+]
 
 
 # ---------------------------------------------------
